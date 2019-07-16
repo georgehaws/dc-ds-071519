@@ -1,3 +1,4 @@
+HEAD
 ## Important links 
 
 [Syllabus](https://drive.google.com/file/d/1GV1nO8scPDJ6YRjHhkZdivPyLsZ90CQx/view?usp=sharing)
@@ -32,3 +33,9 @@
 |Visualizations w/Seaborn | ----                | -----                |
 |Coach Lab Review | ----                | -----                |
 |Quality Deliverables & Collaborations w/Git | ----                | -----                |
+
+# DC-DS-071519
+
+Welcome to the class. 
+We are SO EXCITED that you are here.
+-Alison
