@@ -10,9 +10,9 @@ import pandas as pd
 def process_outcome_data():
     """
     This function:
-        - reads in outcome data
-        - cleans and prep-processes it
-        - returns a clean outcomes_dataset
+    - reads in outcome data
+    - cleans and prep-processes it
+    - returns a clean outcomes_dataset
     """
     animal_outcomes=pd.read_csv('https://data.austintexas.gov/api/views/9t4d-g238/rows.csv?accessType=DOWNLOAD') 
 

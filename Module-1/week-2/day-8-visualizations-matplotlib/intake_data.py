@@ -7,11 +7,11 @@
 import pandas as pd
 
 def process_intake_data():
-        """
+    """
     This function:
-        - reads in intake data
-        - cleans and prep-processes it
-        - returns a clean intake_dataset
+    - reads in intake data
+    - cleans and prep-processes it
+    - returns a clean intake_dataset
     """
     # read in some data
     intakes = pd.read_csv('https://data.austintexas.gov/api/views/wter-evkm/rows.csv?accessType=DOWNLOAD')
